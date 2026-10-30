@@ -14,7 +14,7 @@ Built with OpenCode (DeepSeek V4.1 Flash).
 
 ## Purpose
 
-Music-free play for players who prefer no music. The author is Muslim and prefers to play without music.
+Music-free play for players who prefer no music. I'm a Muslim and prefer to play without music.
 
 ## Behavior
 
